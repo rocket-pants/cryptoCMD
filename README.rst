@@ -28,6 +28,7 @@ cryptoCMD: cryptoCurrency Market Data
     :alt: Code style: black
 
 Cryptocurrency historical market price data scraper written in Python.
+Changed currency to AUD
 
 
 Installation
