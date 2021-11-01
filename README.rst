@@ -27,7 +27,7 @@ cryptoCMD: cryptoCurrency Market Data
     :target: https://github.com/ambv/black
     :alt: Code style: black
 
-Cryptocurrency historical market price data scraper written in Python.
+Cryptocurrency historical market price data scraper written in Python.  
 Changed currency to AUD
 
 
